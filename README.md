@@ -16,11 +16,11 @@
 ---
 
 ### 📊 GitHub Stats
-![Shugaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shugaa100200&show_icons=true&theme=tokyonight)
+![Shugaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=shugaa100200-sudo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shugaa100200&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shugaa100200-sudo&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=shugaa100200&theme=tokyonight)# shugaa100200
+![GitHub Streak](https://streak-stats.demolab.com?user=shugaa100200-sudo&theme=tokyonight)
